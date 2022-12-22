@@ -1,0 +1,7 @@
+How to Remove Remote Origin in Git
+Let’s remove a Git remote from a repository! To start, move into your repository directory. Then execute the following command:
+
+git remote remove [name of the remote]
+To delete the origin remote from your repository, use this command:
+
+git remote remove origin
